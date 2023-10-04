@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ef083fc-f656-4342-93ea-b4bdde6c37b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="4ef083fc-f656-4342-93ea-b4bdde6c37b9" name="Changes" comment="Implemented the basics of the JFrame Library">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Conversor.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Conversor.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Conversor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Conversor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +49,18 @@
       <option name="presentableId" value="Default" />
       <updated>1696386147039</updated>
     </task>
+    <task id="LOCAL-00001" summary="Implemented the basics of the JFrame Library">
+      <created>1696387255043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696387255044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implemented the basics of the JFrame Library" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented the basics of the JFrame Library" />
   </component>
 </project>
