@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ef083fc-f656-4342-93ea-b4bdde6c37b9" name="Changes" comment="Implemented the basics of the JFrame Library">
+    <list default="true" id="4ef083fc-f656-4342-93ea-b4bdde6c37b9" name="Changes" comment="Developed the conversor of dollar that this implementation needed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Conversor.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Conversor.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Conversor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Conversor.java" afterDir="false" />
@@ -56,11 +56,20 @@
       <option name="project" value="LOCAL" />
       <updated>1696387255044</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created the main form that the Frame will have">
+      <created>1696388140673</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696388140673</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implemented the basics of the JFrame Library" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented the basics of the JFrame Library" />
+    <MESSAGE value="Created the main form that the Frame will have" />
+    <MESSAGE value="Developed the conversor of dollar that this implementation needed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Developed the conversor of dollar that this implementation needed" />
   </component>
 </project>
